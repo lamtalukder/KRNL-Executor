@@ -75,7 +75,3 @@
 ## 📬 Contact
 
 Support is available for all users — feedback and help are always welcome.
-
----
-
-**{name}** — Built to perform. Protected to last.
